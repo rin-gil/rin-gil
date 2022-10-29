@@ -9,13 +9,13 @@ I like it:
 * 🤘 Power Metal
 
 ### Languages and Tools:
-[![Python](https://img.shields.io/badge/-Python-000000?&logo=python)]
-[![Django](https://img.shields.io/badge/-Django-000000?logo=django)]
-[![HTML5](https://img.shields.io/badge/-HTML-000000?logo=html5)]
-[![CSS](https://img.shields.io/badge/-CSS-000000?logo=css3)]
-[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript)]
-[![Nginx](https://img.shields.io/badge/-Nginx-000000?logo=nginx)]
-[![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909?logo=gunicorn)]
+[![Python](https://img.shields.io/badge/-Python-000000?&logo=python)](https://www.python.org)
+[![Django](https://img.shields.io/badge/-Django-000000?logo=django)]()
+[![HTML5](https://img.shields.io/badge/-HTML-000000?logo=html5)]()
+[![CSS](https://img.shields.io/badge/-CSS-000000?logo=css3)]()
+[![JavaScript](https://img.shields.io/badge/-JavaScript-000000?logo=javascript)]()
+[![Nginx](https://img.shields.io/badge/-Nginx-000000?logo=nginx)]()
+[![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909?logo=gunicorn)]()
 
 ### Follow me in socials:
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?logo=facebook)](https://www.facebook.com/o.boiaryntsev)
