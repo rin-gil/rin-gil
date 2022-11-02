@@ -1,8 +1,14 @@
 # 👋 Hello, I'm Ringil
-<img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
+<a href="https://github.com/rin-gil">
+    <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
+</a>
+
 
 ## I'm a fullstack web developer
-<img align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=tokyonight&hide_border=true">
+<a href="https://github.com/rin-gil">
+    <img align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=tokyonight&hide_border=true">
+</a>
+
 
 **I like it:**
 * 💻 **Coding**
@@ -39,7 +45,9 @@
 ### Some stats:
 
 <p align="center">
-    <img alt="user stats" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=tokyonight&hide_border=true">
+    <a href="https://github.com/rin-gil">
+        <img alt="user stats" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=tokyonight&hide_border=true">
+    </a>
 </p>
 
 
