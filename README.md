@@ -1,5 +1,6 @@
-<img align="left" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=green&color=blue" />
+<img align="left" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue" />
 
+![Some Title](https://komarev.com/ghpvc/?username=rin-gil&color=blue){:style="float: right;margin-right: 7px;margin-top: 7px;"}
 ## 👋 Hello, I'm Ringil
 
 ### I'm a fullstack web developer
