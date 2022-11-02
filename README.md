@@ -1,6 +1,6 @@
-## 👋 Hello, I'm Ringil
+# 👋 Hello, I'm Ringil
 
-### I'm a fullstack web developer
+## I'm a fullstack web developer
 <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
 
 I like it:
