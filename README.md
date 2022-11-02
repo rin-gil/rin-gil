@@ -4,11 +4,11 @@
 ## I'm a fullstack web developer
 <img align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=tokyonight&hide_border=true">
 
-I like it:
-* 💻 Coding
-* 🍺 Beer
-* 🚴 Bike
-* 🤘 Power Metal
+**I like it:**
+* 💻 **Coding**
+* 🍺 **Beer**
+* 🚴 **Bike**
+* 🤘 **Power Metal**
 
 ***
 
