@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Ringil
-<a href="https://github.com/rin-gil">
+<a href="">
     <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
 </a>
 
