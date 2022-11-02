@@ -1,5 +1,7 @@
 ## 👋 Hello, I'm Ringil
 
+---
+
 ### I'm a fullstack web developer
 <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
 
