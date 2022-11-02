@@ -1,4 +1,4 @@
-<img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=green&color=blue" />
+<img align="left" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=green&color=blue" />
 
 ## 👋 Hello, I'm Ringil
 
