@@ -10,6 +10,8 @@
 * 🚴 **Bike**
 * 🤘 **Power Metal**
 
+***
+
 ### Languages and Tools:
 
 [![Python](https://img.shields.io/badge/-Python-000000?&logo=python)](https://www.python.org)
@@ -20,6 +22,8 @@
 [![Nginx](https://img.shields.io/badge/-Nginx-000000?logo=nginx)](https://nginx.org)
 [![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909?logo=gunicorn)](https://gunicorn.org)
 
+***
+
 ### Follow me in socials:
 
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?logo=facebook)](https://www.facebook.com/o.boiaryntsev)
@@ -29,6 +33,8 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?logo=telegram)](https://t.me/alex_boiyaryntsev)
 [![Strava](https://img.shields.io/badge/-Strava-000000?logo=strava)](https://www.strava.com/athletes/ringil)
 [![Komoot](https://img.shields.io/badge/-Komoot-000000?logo=komoot)](https://www.komoot.com/user/2452289283956)
+
+***
 
 ### Some stats:
 
