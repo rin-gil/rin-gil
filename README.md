@@ -9,7 +9,7 @@ I like it:
 * 🚴 Bike
 * 🤘 Power Metal
 
----
+***
 
 ### Languages and Tools:
 
@@ -33,7 +33,7 @@ I like it:
 [![Strava](https://img.shields.io/badge/-Strava-000000?logo=strava)](https://www.strava.com/athletes/ringil)
 [![Komoot](https://img.shields.io/badge/-Komoot-000000?logo=komoot)](https://www.komoot.com/user/2452289283956)
 
----
+***
 
 ### Some stats:
 
