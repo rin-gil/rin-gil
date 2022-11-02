@@ -1,3 +1,7 @@
+<p style="float:right">
+    <img alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=green&color=blue" />
+</p>
+
 ## 👋 Hello, I'm Ringil
 
 ### I'm a fullstack web developer
