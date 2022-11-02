@@ -2,7 +2,7 @@
 <img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
 
 ## I'm a fullstack web developer
-<img align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=ayu-mirage&hide_border=true">
+<img align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=tokyonight&hide_border=true">
 
 I like it:
 * 💻 Coding
@@ -39,7 +39,7 @@ I like it:
 ### Some stats:
 
 <p align="center">
-    <img alt="user stats" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=ayu-mirage&hide_border=true">
+    <img alt="user stats" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=tokyonight&hide_border=true">
 </p>
 
 
