@@ -21,7 +21,7 @@ I like it:
 [![Nginx](https://img.shields.io/badge/-Nginx-000000?logo=nginx)](https://nginx.org)
 [![Gunicorn](https://img.shields.io/badge/-Gunicorn-090909?logo=gunicorn)](https://gunicorn.org)
 
------
+***
 
 ### Follow me in socials:
 
