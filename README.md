@@ -27,7 +27,9 @@ I like it:
 [![Strava](https://img.shields.io/badge/-Strava-000000?logo=strava)](https://www.strava.com/athletes/ringil)
 [![Komoot](https://img.shields.io/badge/-Komoot-000000?logo=komoot)](https://www.komoot.com/user/2452289283956)
 
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=ayu-mirage&hide_border=true" />
+
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=ayu-mirage&hide_border=true" />  
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=ayu-mirage&hide_border=true" />
+
 
