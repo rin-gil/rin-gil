@@ -38,7 +38,7 @@ I like it:
 ### Some stats:
 
 <p align="center">
-    <img align="left" alt="stats" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=ayu-mirage&hide_border=true" />
+    <img alt="stats" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=ayu-mirage&hide_border=true" />
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=ayu-mirage&hide_border=true" />  
