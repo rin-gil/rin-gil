@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Ringil
 
 ### I'm a fullstack web developer
-<img align="right" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
+<img align="right" alt="profile views" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
 
 I like it:
 * 💻 Coding
@@ -26,3 +26,8 @@ I like it:
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?logo=telegram)](https://t.me/alex_boiyaryntsev)
 [![Strava](https://img.shields.io/badge/-Strava-000000?logo=strava)](https://www.strava.com/athletes/ringil)
 [![Komoot](https://img.shields.io/badge/-Komoot-000000?logo=komoot)](https://www.komoot.com/user/2452289283956)
+
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=ayu-mirage&hide_border=true" />  
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=ayu-mirage&hide_border=true" />
+
