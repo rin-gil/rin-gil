@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Ringil
 
-<img align="right" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
 ### I'm a fullstack web developer
+<img align="right" src="https://komarev.com/ghpvc/?username=rin-gil&color=blue">
 
 I like it:
 * 💻 Coding
