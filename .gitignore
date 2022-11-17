@@ -1,3 +1,5 @@
-### JetBrains template
-
+# JetBrains template
 .idea
+
+# Environments
+venv/
