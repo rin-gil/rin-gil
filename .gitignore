@@ -3,3 +3,8 @@
 
 # Environments
 venv/
+
+# Type checker
+.mypy_cache
+mypy.toml
+pylint.toml
