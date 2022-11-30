@@ -4,7 +4,7 @@
 </a>
 
 
-## I am a novice developer
+## I am a python developer
 <a href="https://github.com/rin-gil">
     <img align="right" alt="most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rin-gil&layout=compact&theme=tokyonight&hide_border=true">
 </a>
