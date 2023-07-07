@@ -39,18 +39,3 @@
 [![Telegram](https://img.shields.io/badge/-Telegram-000000?logo=telegram)](https://t.me/alex_boiyaryntsev)
 [![Strava](https://img.shields.io/badge/-Strava-000000?logo=strava)](https://www.strava.com/athletes/ringil)
 [![Komoot](https://img.shields.io/badge/-Komoot-000000?logo=komoot)](https://www.komoot.com/user/2452289283956)
-
-***
-
-### Some stats:
-
-<p align="center">
-    <a href="https://github.com/rin-gil">
-        <img alt="user stats" src="https://github-readme-stats.vercel.app/api?username=rin-gil&show_icons=true&theme=tokyonight&hide_border=true">
-    </a>
-</p>
-
-
-
-
-
