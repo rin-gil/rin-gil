@@ -32,4 +32,4 @@
 
 [![Facebook](https://img.shields.io/badge/-Facebook-000000?logo=facebook)](https://www.facebook.com/o.boiaryntsev)
 [![Instagram](https://img.shields.io/badge/-Instagram-000000?logo=instagram)](https://www.instagram.com/o.boiaryntsev/)
-[![Twitter](https://img.shields.io/badge/-Twitter-000000?logo=twitter)](https://twitter.com/RingilEndimion)
+[![Telegram](https://img.shields.io/badge/-Telegram-000000?logo=telegram)](https://t.me/ringil_endimion)
